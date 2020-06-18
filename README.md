@@ -24,7 +24,7 @@ This dashboard can be used to manage material delivery dates and delivery status
 - The sample MRP excel could be like below. It consists material number, material text, disponent and dispomerkmal.
 other fields like creation date, delivery date and history come from TiS based on your entries. 
 
-![Sample MRP Excel](https://git.daimler.com/SSASMAZ/TIS_Dashboard/blob/master/Screenshots/Sample%20MRP%20Excel.JPG)
+![Sample MRP Excel](https://github.com/sinem-sasmazel/JavaSwing_TIS_Dashboard/blob/master/Screenshots/Sample%20MRP%20Excel.JPG)
 
 
 
