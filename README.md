@@ -9,7 +9,7 @@ This dashboard can be used to manage material delivery dates and delivery status
 
 - You can login to the TiS application via EMEA ID and TiS password. The password is based on the TiS database. 
 
-![Login](https://git.daimler.com/SSASMAZ/TIS_Dashboard/blob/master/Screenshots/Login.JPG)
+![Login](https://github.com/sinem-sasmazel/JavaSwing_TIS_Dashboard/blob/master/Screenshots/Login.JPG)
 
 - You can put the material number and press enter, then related fields come out like material text, delivery dates, disponent, dispomerkmal and status history. Delivery date is calculated by adding 42 days to creation date.
 
