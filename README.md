@@ -19,7 +19,7 @@ This dashboard can be used to manage material delivery dates and delivery status
 
 - After new material entry or updates, you can use "Save" button.
 
-![Dashboard](https://git.daimler.com/SSASMAZ/TIS_Dashboard/blob/master/Screenshots/Dashboard.JPG)
+![Dashboard](https://github.com/sinem-sasmazel/JavaSwing_TIS_Dashboard/blob/master/Screenshots/Dashboard.JPG)
 
 - The sample MRP excel could be like below. It consists material number, material text, disponent and dispomerkmal.
 other fields like creation date, delivery date and history come from TiS based on your entries. 
